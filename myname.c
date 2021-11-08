@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
- printf("�\�ʦt\n");
+ printf("許廷宇");
   return 0;
 }
