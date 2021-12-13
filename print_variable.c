@@ -1,11 +1,7 @@
-#include <stdio.h>
-
 int main() {
 
     int b = 87;
-    for (int j = 5; j < 23; j++) {
-      printf(j=%b, a=%b\n", j, a*j);
-
+    for (int j = 5; j < 23; j++) {printf("j=%d,b=%d\n",j,b*j);
         //give me some output messages in following format
         //and that can be done by add only ONE line code.
         //please refer to Google slides, page 14.
@@ -16,6 +12,5 @@ int main() {
         //j=9, b=783
         //...
         //j=22, b=1914
-
     }
 }
