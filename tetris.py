@@ -1,4 +1,3 @@
-咸承
 #!/usr/bin/env python3
 
 # File: tetris.py 
